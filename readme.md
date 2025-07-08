@@ -20,4 +20,4 @@ pip install opencv-python==4.5.3.56
 
 ## Credits
 
-Most of the exercises here are implementations of the Computer Vision tutorials by [@paulmcwhorter](https://www.youtube.com/@paulmcwhorter).So make sure to follow him as well, special thanks to him for his clear explanation and inspiring content.
+Most of the exercises here are implementations of the Computer Vision tutorials by [@paulmcwhorter](https://www.youtube.com/@paulmcwhorter), I followed his [AI for Everyone Playlist](https://youtube.com/playlist?list=PLGs0VKk2DiYyXlbJVaE8y1qr24YldYNDm&si=Um1yWei4otBDxhVg) playlist so make sure to follow him as well, special thanks to him for his clear explanation and inspiring content.
